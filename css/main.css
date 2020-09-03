@@ -11,7 +11,7 @@ html {
 
 @font-face {
     font-family: "CyrillicOld";
-    src: url(https://kolodcev-dom.github.io/cyrillicold.ttf);
+    src: url(https://github.com/kolodcev-dom/kolodcev-dom.github.io/blob/master/cyrillicold.ttf?raw=true);
     font-weight: 400;
     font-display: swap
 }
