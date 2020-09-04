@@ -189,6 +189,11 @@ footer {
   width: 100%;
   background-repeat: no-repeat;
 }
+
+footer li a {
+  color: #FFF!important
+}
+
 .background {
   color: #fff;
   justify-content: flex-start;
