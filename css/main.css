@@ -190,7 +190,7 @@ footer {
   background-repeat: no-repeat;
 }
 
-footer li a {
+footer li a, footer li a:visited {
   color: #FFF!important
 }
 
